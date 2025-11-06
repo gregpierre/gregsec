@@ -12,8 +12,8 @@ This portfolio highlights my practical experience in ethical hacking, network de
 
 ## 📜 Licenses & Certifications
 - AIG – Shields Up: Cybersecurity Job Simulation
-- Mastercard – Cybersecurity Job Simulation  
-- [Add others here]
+- Mastercard – Cybersecurity Job Simulation
+
 
 ## 🔗 Website
 Visit the full site: **(https://gregpierre.github.io/gregsec)**
